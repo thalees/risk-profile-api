@@ -1,6 +1,6 @@
 # Risk Profile API
 
-API to determine a user's risk profile for certain information
+API to determine a risk profile for some user information
 
 ## Description
 
