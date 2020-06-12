@@ -100,7 +100,7 @@ pytest
 
   OR
 
-  * **Code:** 422 UNPROCESSABLE ENTRY <br />
+  * **Code:** 422 UNPROCESSABLE ENTITY <br />
     **Content:**
 
   ```
